@@ -1,5 +1,7 @@
 import cPickle as pk, matplotlib.pyplot as mp, numpy as np, random
 
+#Using Perceptron learning rule to classify points
+
 class Perceptron:
 
     def __init__(self,data,l):
